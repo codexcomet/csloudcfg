@@ -12,7 +12,7 @@
 > Используйте настройки как у меня в скриншоте, выставить лучше все на минимальные для наименьшей нагрузки ВИДЕОКАРТЫ, CPU. 
 >- Reflex - ENABLED лучшее значение чем либо с бустом. 
 
-![alt text](https://private-user-images.githubusercontent.com/57460269/327420591-642cff5f-863c-455e-80dc-16d45c924844.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTQ2NTM5MDYsIm5iZiI6MTcxNDY1MzYwNiwicGF0aCI6Ii81NzQ2MDI2OS8zMjc0MjA1OTEtNjQyY2ZmNWYtODYzYy00NTVlLTgwZGMtMTZkNDVjOTI0ODQ0LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA1MDIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNTAyVDEyNDAwNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTllMjUzNzRiYWI5MWNjMWIzYjNjM2M3ODkyOTE1OWZhZmEzNGY0MjNmYjA5YzZhNGQwMzI5ZGMyZjFlMGU2MTUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.PIPc21N366srHxr1jNzih5I31dLNZWFRv1FnvR2LLdY)
+![alt text](https://ibb.co/NS7kQKK)
 
 >[!NOTE]
 > Используйте настройки игры как в скриншоте, с минимальным пакетом всегда лучше с [ПАКЕТ-1], он меньше теряет пакеты при плохой лаги стрельбы.
